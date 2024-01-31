@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1706735562 source:d:\pry_code\universidad\pensamiento computacional\ii unidad\ordenamientofinal\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
